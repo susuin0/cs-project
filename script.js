@@ -50,7 +50,7 @@ document.querySelectorAll('.button').forEach(button => {
                 ]);
                 
                 // YouTube를 새 창에서 열도록 수정합니다.
-                window.open("https://drive.google.com/file/d/1E4WIfn5QYUBfxBkDk0DJBm23wcthtClz/view?usp=sharing");
+                window.open("https://drive.google.com/file/d/17adXbepe32GpbVph_5uZEM1fyqWpMllV/view?usp=share_link");
                 
             }, duration / 2);
 
